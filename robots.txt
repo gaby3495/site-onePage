@@ -1,0 +1,7 @@
+user-agent-Googlebot
+Disallow: /nogooglebot
+
+user-agent*
+Allow/
+
+s
